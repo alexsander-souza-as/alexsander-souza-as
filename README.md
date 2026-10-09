@@ -1,7 +1,4 @@
 
-<a href="COLE-AQUI-O-LINK-DO-JARVIS">
-  <img src="./jarvis-banner.svg" alt="J.A.R.V.I.S" width="100%">
-</a>
 
 <h1 align="center">Olá, eu sou o Alexsander Souza! 👋</h1>
 
